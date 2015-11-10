@@ -79,7 +79,7 @@ Ejemplo de zoom a una estancia
 
 Personalización
 -------------
-Sí quieres extender la funcionalidad cuando se selecciona una estancia en el popup (info), aparece información de la estancias y un botón, ** Seleccionar estancia**, que llama a una función llamada **showCodigo** que recibe como variable el código de estancia. Puedes utilizarlo para incorporarlo a  tu website. E
+Sí quieres extender la funcionalidad cuando se selecciona una estancia en el popup (info), aparece información de la estancias y un botón, **Seleccionar estancia**, que llama a una función llamada **showCodigo** que recibe como variable el código de estancia. Puedes utilizarlo para incorporarlo a  tu website.
 ```
 function showCodigo( codigo ) {
 	alert("Hola, has seleccionado la estancia con codigo " + codigo );
