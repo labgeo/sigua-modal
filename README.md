@@ -76,6 +76,7 @@ Ejemplo de zoom a una estancia
 ```
 <a href="#miMapaModal" id="elCodigo" data-value="0037PB016" role="button" class="btn btn-primary" data-toggle="modal">Abrir Mapa en 0037PB016</a>
 ```
+Tienes un ejemplo en el fichero **index_codigo.html** con este ejemplo. Descomenta las siguientes líneas para realizar zooms a edificios, o edificio/planta
 
 Personalización
 -------------
