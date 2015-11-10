@@ -28,6 +28,7 @@ Este  visor utiliza tres  librerías Javascript que pueden referirse de forma lo
 > - **LeafletJS**: Pequeña pero potente utilidad para visualizar cartografía en la web
 > - **Jquery**: Framework de sobra conocido para facilitar el uso de Javascript
 > **Bootstrap:**Framework creado por Twitter para crear interfaces web con CSS. La versión utilizada es la 3.X
+> **leaflet-sidebar:** Plugin de Leaflet para obtener un div lateral (sidebar). Es opcional su uso. Se utiliza en el ejemplo 3 para ver los edificios listados en un lateral.
 
 Aparte de dichas librerías, encontramos dos ficheros javascript que contienen la funcionalidad de Sigua (también en **assets/js**:
 > - **sigua_capas.js**: Contiene la articulación de las capas cartográficas utilizadas.
