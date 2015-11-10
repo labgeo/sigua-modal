@@ -97,4 +97,5 @@ Hemos realizado cuatro ejemplos con diferentes funcionalidades:
 > - **index_basico2.html**: Las mismas prestaciones que el anterior,  pero se dispone de un control de formulario tipo SELECT para obtener el listado de edificios. Cuando se selecciona uno se hace un zoom a su totalidad
 > - **index_basico3.html:**: Al igual que el anterior, pero en este caso los edificios aparecen en un sidebar lateral
 > - **index_codigo.html:**: Al igual que el primero, pero en este caso la vista se centra en una estancia que se pasa como parámetro en el botton
-
+> - **index_edificio.html:**: Al igual que el primero, pero en este caso la vista se centra en un edificio que se pasa como parámetro en el botton
+> - **index_edificio-planta.html:**: Al igual que el primero, pero en este caso la vista se centra en un edificio y planta concreto que se pasa como parámetro en el botton
